@@ -1,0 +1,37 @@
+
+
+.footer {
+  bottom: 0;
+  position: absolute;
+  display: inline-flex;
+  background-color: rgba(255,255,255,0.3);
+  width: 100%;
+  line-height: 22px;
+  margin-left: -1%;
+}
+
+footer hr {
+  margin-top: 33.5%;
+}
+
+#copyright {
+  font-size: 12px;
+  margin-top: 0.5%;
+  margin-left: 1.5%;
+}
+
+#foot_logo {
+  padding: 1% 35% 0 35%;
+  margin-left: 3%;
+}
+
+#facebook {
+  margin-top: 0.5%;
+  margin-left: 5%;
+  max-width: 20%;
+}
+
+ #facebook img {
+  width: 75%;
+  height: 75%;
+}

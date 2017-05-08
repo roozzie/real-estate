@@ -1,0 +1,24 @@
+
+.avia-safari div.hr.hr-invisible.avia-builder-el-6.el_before_av_one_fifth.avia-builder-el-first {
+margin-top: 0 !important;
+}
+
+ body {
+  marging: 0;
+  padding: 0;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  font-family: 'Oswald', sans-serif;
+  background-image: url('../img/bg.png');
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+ }
+
+ a {
+   text-decoration: none;
+ }
+
+ li {
+    list-style-type: none;
+ }
